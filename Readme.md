@@ -42,7 +42,7 @@ source abalones_age_env/bin/activate
 Installieren Sie alle erforderlichen Pakete über `pip` mit der `requirements.txt`-Datei:
 
 ```
-pip install -r requirements.txt
+pip install -r src/requirements.txt
 ```
 
 ## Notebook starten
