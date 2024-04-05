@@ -1,0 +1,8 @@
+# Virtual Environment
+env/
+.venv/
+abalones_age_env/
+
+# macOS-specific files
+.DS_Store
+
