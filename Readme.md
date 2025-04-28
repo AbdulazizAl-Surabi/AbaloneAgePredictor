@@ -8,9 +8,6 @@ Dieses Projekt verwendet Machine Learning-Modelle, um das Alter von Abalones (Me
 
 Es wird empfohlen, eine virtuelle Umgebung zu verwenden, um die Abhängigkeiten zu verwalten. Führen Sie die folgenden Schritte aus, um die Umgebung einzurichten und zu aktivieren.
 
-### Voraussetzungen
-
-Stellen Sie sicher, dass Sie Python 3.8 oder höher installiert haben, sowie `pip` und `virtualenv`.
 
 ### Virtuelle Umgebung erstellen
 
